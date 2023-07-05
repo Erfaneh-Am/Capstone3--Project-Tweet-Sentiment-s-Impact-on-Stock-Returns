@@ -1,4 +1,4 @@
-# Capstone3--Project-Tweet-Sentiment-s-Impact-on-Stock-Returns
+# Capstone3 Project-Tweet Sentiment's Impact on Stock Prices
 ## Introduction
 Understanding the impact of social media sentiment on stock returns has gained significant attention in recent years. The rise of sentiment analysis techniques, powered by Natural Language Processing (NLP) and machine learning, has allowed researchers to explore the relationship between investor sentiment expressed on Twitter and subsequent stock market movements.
 This report aims to delve into the captivating intersection of tweet sentiment and stock returns, utilizing NLP techniques and an LSTM (Long Short-Term Memory) model. 
